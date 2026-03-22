@@ -1,0 +1,16 @@
+                                             Params      Error
+0                                             (Tg,)  13.511167
+1                                   (delta Cp(Tg),)  16.141976
+2                                       (delta Hm,)  12.363435
+3                              (delta Cp/delta Sm,)   8.220462
+4                                (Tg, delta Cp(Tg))  15.551721
+5                                    (Tg, delta Hm)  13.232231
+6                           (Tg, delta Cp/delta Sm)   8.925791
+7                          (delta Cp(Tg), delta Hm)  17.037978
+8                 (delta Cp(Tg), delta Cp/delta Sm)   8.432894
+9                     (delta Hm, delta Cp/delta Sm)   8.432773
+10                     (Tg, delta Cp(Tg), delta Hm)  14.024073
+11            (Tg, delta Cp(Tg), delta Cp/delta Sm)   9.385718
+12                (Tg, delta Hm, delta Cp/delta Sm)   8.797390
+13      (delta Cp(Tg), delta Hm, delta Cp/delta Sm)   9.240179
+14  (Tg, delta Cp(Tg), delta Hm, delta Cp/delta Sm)   9.061719

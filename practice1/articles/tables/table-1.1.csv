@@ -1,0 +1,16 @@
+Empirical formula,BaCu₂As₂,α-BaCu₂Sb₂
+Formula weight (g/mol),414.26,507.92
+Collection temperature (K),173(2),
+"Radiation, wavelength (Å)","Mo Kα, 0.71073",
+Crystal system,Tetragonal,
+"Space group, Z","I4/mmm, 2","P4/nmm, 2"
+"a, Å",4.4119(4),4.6536(3)
+"c, Å",10.193(2),10.7946(13)
+"Cell volume, (Å³)",198.41(4),233.77(4)
+"Density (calculated, g/cm³)",6.934,7.216
+"Absorption coefficient (mm⁻¹)",36.742,28.447
+Reflections collected,1115,3069
+Independent reflections,94,211
+"R indices (all data)","R₁ = 0.0235, wR₂ = 0.0584","R₁ = 0.0231, wR₂ = 0.0646"
+Goodness-of-fit on F²,1.107,1.300
+"Largest diff. peak/hole (e⁻/Å³)","1.17 / -1.65","1.08 / -2.01"
