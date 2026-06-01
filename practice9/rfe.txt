@@ -1,0 +1,15 @@
+MAE for combination ('materials count',): 1.0860529693933094
+MAE for combination ('space group class',): 1.0282177600320734
+MAE for combination ('band gap (eV)',): 1.0812408958421034
+MAE for combination ('density (g/cm^3)',): 1.0676022303259374
+MAE for combination ('materials count', 'space group class'): 1.043992866053476
+MAE for combination ('materials count', 'band gap (eV)'): 1.0849081761529866
+MAE for combination ('materials count', 'density (g/cm^3)'): 1.0635963931666401
+MAE for combination ('space group class', 'band gap (eV)'): 1.0448969725595152
+MAE for combination ('space group class', 'density (g/cm^3)'): 1.0123149231979074
+MAE for combination ('band gap (eV)', 'density (g/cm^3)'): 1.0497332160546147
+MAE for combination ('materials count', 'space group class', 'band gap (eV)'): 1.0524276461589335
+MAE for combination ('materials count', 'space group class', 'density (g/cm^3)'): 1.0170138036825027
+MAE for combination ('materials count', 'band gap (eV)', 'density (g/cm^3)'): 1.0489345550796563
+MAE for combination ('space group class', 'band gap (eV)', 'density (g/cm^3)'): 1.0113382952848953
+MAE for combination ('materials count', 'space group class', 'band gap (eV)', 'density (g/cm^3)'): 1.0169410710202245
